@@ -63,11 +63,6 @@ This project focuses on:
 
 If you’re passionate about real estate, data science, or policy-making, feel free to fork the repo, suggest improvements, or collaborate!
 
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](./LICENSE).
 
 ---
 
